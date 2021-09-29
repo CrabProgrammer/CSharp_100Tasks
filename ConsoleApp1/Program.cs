@@ -7,6 +7,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Task1.Solution();
+            Task2.Solution();
+
         }
     }
 }
